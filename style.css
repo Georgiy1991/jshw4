@@ -1,0 +1,28 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.error{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+.ok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+}
+.ol{
+    margin: 0 auto;
+    text-align: center;
+}
+#books{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
